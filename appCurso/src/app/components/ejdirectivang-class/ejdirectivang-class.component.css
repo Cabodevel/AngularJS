@@ -1,0 +1,12 @@
+.advertencia{
+    color: yellow;
+    background-color:  black;
+}
+
+.aprobado{
+    color: green;
+}
+
+.suspenso{
+    color: red;
+}
